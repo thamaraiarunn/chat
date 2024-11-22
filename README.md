@@ -9,15 +9,18 @@ Group Chats: Create and participate in group conversations.
 Multimedia Sharing: Send and receive images, videos, and files.
 Responsive Design: Optimized for mobile, tablet, and desktop users.
 Search and Filters: Quickly find chats and messages.
+
 Technology Stack:
 Frontend
 Framework: React / Angular / Flutter (modify as per your project)
 UI Library: Material UI / Bootstrap
 State Management: Redux / Context API
+
 Backend
 Language: Node.js / Python / Java
 Framework: Express.js / Django / Spring Boot
 Database: MongoDB / MySQL / Firebase
 Real-time: WebSocket / Socket.IO
+
 Other Tools:
 Version Control: Git
